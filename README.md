@@ -34,6 +34,9 @@ Based on the SHAP analysis, the top drivers of churn are:
 
 **Solution:** Engineered a custom **"Bulletproof Wrapper"** function to bridge the two libraries. This wrapper intercepts the data, enforces float precision, and passes it safely to the model, ensuring 100% stability.
 
+### 📊 Visualizing the Drivers (SHAP)
+![SHAP Summary Plot](https://github.com/user-attachments/assets/30d1b034-fe01-4a57-82d2-a4024111841e)
+
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
