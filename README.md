@@ -52,4 +52,4 @@ Based on the SHAP analysis, the top drivers of churn are:
     ```
 
 ## 👤 Author
-**Allan Alex**
+**Allan Cheerakunnil Alex**
