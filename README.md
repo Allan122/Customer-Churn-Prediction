@@ -51,5 +51,4 @@ Based on the SHAP analysis, the top drivers of churn are:
     jupyter notebook "Customer churn.ipynb"
     ```
 
-## 👤 Author
 **Allan Cheerakunnil Alex**
