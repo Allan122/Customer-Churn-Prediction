@@ -4,8 +4,11 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Model-green)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-orange)
 
-## Dataset
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+## 📂 Dataset
+The model was trained on the **[Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)** from Kaggle.
+* **Size:** 7,043 rows (Customers)
+* **Features:** 21 columns (Contract type, Payment method, Tenure, etc.)
+* **Target:** Churn (Yes/No)
 
 ## 📌 Project Overview
 Customer Churn is a critical metric in the telecommunications industry. This project builds a Machine Learning pipeline to predict which customers are likely to cancel their subscription. 
